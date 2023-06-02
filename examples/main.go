@@ -2,8 +2,8 @@ package main
 
 import (
 	"flag"
+	"github.com/joaosoft/web-socket"
 	"strings"
-	"web-socket"
 )
 
 func main() {
